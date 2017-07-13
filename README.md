@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 ThorDevcampViewTool::Renderer.copyright 'Thor Madsen',  ' | All rights reserved'
-'''
+```
 
 ## Development
 
